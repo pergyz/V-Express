@@ -35,6 +35,8 @@ Our method gradually enables effective control by weak conditions, thereby achie
 git clone https://github.com/Pergyz/V-Express
 
 # install requirements
+conda create -n v-express python=3.12
+conda activate v-express
 cd V-Express
 pip install -r requirements.txt
 
