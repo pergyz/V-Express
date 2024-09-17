@@ -8,5 +8,5 @@ safetensors==0.4.5
 transformers==4.41.1
 einops==0.4.1
 tqdm==4.66.4
-xformers==0.0.22
+xformers
 av==11.0.0
