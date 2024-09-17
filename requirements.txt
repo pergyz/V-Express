@@ -1,9 +1,10 @@
+accelerate
 diffusers==0.24.0
 imageio-ffmpeg==0.4.9
 insightface==0.7.3
 omegaconf==2.2.3
 onnxruntime==1.19.2
-safetensors==0.4.2
+safetensors==0.4.5
 transformers==4.41.1
 einops==0.4.1
 tqdm==4.66.4
