@@ -37,6 +37,7 @@ git clone https://github.com/Pergyz/V-Express
 # install requirements
 conda create -n v-express python=3.12
 conda activate v-express
+conda install pytorch torchvision torchaudio pytorch-cuda=12.1 -c pytorch -c nvidia
 cd V-Express
 pip install -r requirements.txt
 
