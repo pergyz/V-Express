@@ -32,7 +32,7 @@ Our method gradually enables effective control by weak conditions, thereby achie
 
 ```
 # download the codes
-git clone https://github.com/tencent-ailab/V-Express
+git clone https://github.com/Pergyz/V-Express
 
 # install requirements
 cd V-Express
